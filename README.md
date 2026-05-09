@@ -69,8 +69,6 @@ Main libraries used:
 - **Q3:** Lebanon had the sharpest spike in healthy food costs between 2020 and 2022, driven by economic collapse rather than inflation. Most other countries saw fairly moderate increases.
 - **Q4:** Linear regression on 2017-2024 data projects the global average annual healthy diet cost will reach around $2,050 by 2030, up from about $1,150 in 2017.
 
----
-
 ## Group Contributions
 
 - **Andy** handled the initial notebook structure, Q1, Q3, and Q4 code framework, and country codes dataset
